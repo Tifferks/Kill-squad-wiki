@@ -67,27 +67,32 @@
   - Astartes: Can perform two Shoot or two Fight actions in an activation (bolt/pistol restriction for double-Shoot).
   - Marks of Chaos: Khorne/Nurgle/Slaanesh/Tzeentch/Undivided each grant unique rules and interact with ploys.
   - Counteract: Can react regardless of order.
+  - One‑Pager: [docs/onepagers/legionaries.md](onepagers/legionaries.md)
 
 - Death Korps (Krieg Veterans):
   - Identity: Orders-based Guard with specialist tools and attritional firepower.
   - Guardsmen Orders: Watchmaster/Confidant issues an order (e.g., Take Aim!, Fix Bayonets!, Dig In!, Move! Move! Move!).
   - Team Build: Can trade up to 4 Troopers to make selected ploys cost 0 CP for the battle.
+  - One‑Pager: [docs/onepagers/death_korps.md](onepagers/death_korps.md)
 
 - Nemesis Claw (Night Lords CSM):
   - Identity: Terror from darkness; disruption and tempo plays.
   - Astartes + Counteract; “In Midnight Clad” grants Obscured when certain range/terrain conditions are met.
   - Ploys: Charge-first damage ping; Vox Scream to delay an enemy activation (increasing CP cost each use).
+  - One‑Pager: [docs/onepagers/nemesis_claw.md](onepagers/nemesis_claw.md)
 
 - Tempestus Aquilons (Elite AM Drop Troops):
   - Identity: Gravchute drop assault, precise landings, shock firepower.
   - Drop Markers: Staged deployment above the board; landing during activations within 3" of Drop markers.
   - Early landing is key: Less than half can remain above after TP1; markers are removed later.
+  - One‑Pager: [docs/onepagers/tempestus_aquilons.md](onepagers/tempestus_aquilons.md)
 
 - Vespid Stingwings (T’au Auxiliaries):
   - Identity: Fast flyers with a Communion points command economy.
   - Communion: Points gained each Strategy phase (+1 if Oversight Drone). Spend to lift target/charge constraints, mission actions, and to reroll 1 attack die when shooting.
+  - One‑Pager: [docs/onepagers/vespid_stingwings.md](onepagers/vespid_stingwings.md)
 
 - Corsair Voidscarred (Aeldari Void Pirates):
   - Identity: Agile mixed-arms with specialists, sustain, and tricksy mobility.
   - Rifles: Bonuses when shooting shuriken/ranger rifles as noted on sheet.
-
+  - One‑Pager: [docs/onepagers/corsair_voidscarred.md](onepagers/corsair_voidscarred.md)

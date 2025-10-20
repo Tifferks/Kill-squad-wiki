@@ -1,0 +1,8 @@
+# Ignore everything by default
+/*
+
+# Allow the site content in docs/
+!/.gitignore
+!/docs/
+!/docs/**
+
