@@ -61,7 +61,7 @@
 
 ---
 
-# Team Quick Notes (From Your PDFs)
+# Team Quick Notes (From PDFs)
 - Legionaries (Chaos Space Marine Veterans):
   - Identity: Durable, flexible shooting and scary melee; pick a Mark of Chaos per operative.
   - Astartes: Can perform two Shoot or two Fight actions in an activation (bolt/pistol restriction for double-Shoot).
